@@ -1,0 +1,83 @@
+{
+    "type": "ItemTurret",
+    "health": 2400, 
+    "size": 4,
+    "shotWidth": 5,
+    "reloadTime": 65,
+    "range": 320,
+    "inaccuracy": 12,
+    "rotatespeed": 30,
+    "shots": 12,
+    "restitution": 0.1,
+    "burstSpacing": 3,
+    "targetAir": true,
+    "targetGround": false,
+    "category": "turret",
+    "shootCone": 50,
+    "ammoTypes": {
+        "scrap": {
+            "damage": 9,
+            "lifetime": 70,
+            "speed": 4,
+            "reloadMultiplier": 0.5,
+            "splashDamageRadius": 24,
+            "splashDamage": 22,
+            "width": 8,
+            "height": 10,
+            "hitEffect": "flakExplosion",
+            "ammoMultiplier": 6,
+            "shootEffect": "shootSmall"
+        },
+        "lead": {
+            "damage": 11,
+            "lifetime": 70,
+            "speed": 4.2,
+            "splashDamageRadius": 15,
+            "splashDamage": 27,
+            "width": 8,
+            "height": 10,
+            "hitEffect": "flakExplosion",
+            "ammoMultiplier": 5,
+            "shootEffect": "shootSmall"
+        },
+        "metaglass": {
+            "damage": 10,
+            "lifetime": 70,
+            "speed": 4,
+            "reloadMultiplier": 0.8,
+            "splashDamageRadius": 28,
+            "splashDamage": 32,
+            "width": 8,
+            "height": 10,
+            "fragBullet": "fragGlass",
+            "fragBullets": 2,
+            "hitEffect": "flakExplosion",
+            "ammoMultiplier": 6,
+            "shootEffect": "shootSmall"
+        },
+        "plastanium": {
+            "damage": 14,
+            "frontColor": "d8d97f",
+            "backColor": "fffac6",
+            "lifetime": 70,
+            "speed": 4,
+            "splashDamageRadius": 30,
+            "splashDamage": 40,
+            "width": 8,
+            "height": 10,
+            "fragBullet": "fragPlastic",
+            "fragBullets": 2,
+            "hitEffect": "plasticExplosion",
+            "ammoMultiplier": 4,
+            "shootEffect": "shootSmall"
+        }
+    },
+    "requirements": [
+        { "item": "copper", "amount": 500},
+        { "item": "thorium", "amount": 100},
+        { "item": "lead", "amount": 400},
+        { "item": "titanium", "amount": 200}
+    ],
+    "research": "diffraction",
+    "shootSound": "shootSnap"
+}
