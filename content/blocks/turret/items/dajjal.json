@@ -1,0 +1,87 @@
+{
+    "type": "ItemTurret",
+    "health": 1200,
+    "size": 3,
+    "restitution": 0.03,
+    "alternate":  true, 
+    "reloadTime": 7,
+    "range": 180,
+    "inaccuracy": 2,
+    "rotatespeed": 25,
+    "targetAir": true,
+    "targetGround": true,
+    "category": "turret",
+    "shootCone": 20,
+    "ammoTypes": {
+        "silicon": {
+            "damage": 19,
+            "homingPower": 0.68,
+            "homingRange": 25,
+            "lifetime": 60,
+            "speed": 4,
+            "reloadMultiplier": 1.8,
+            "width": 8,
+            "height": 10,
+            "hitEffect": "flakExplosion",
+            "ammoMultiplier": 5,
+            "shootEffect": "shootSmall"
+        },
+        "graphite": {
+            "damage": 25,
+            "lifetime": 60,
+            "speed": 4.2,
+            "width": 10,
+            "height": 13,
+            "hitEffect": "flakExplosion",
+            "ammoMultiplier": 4,
+            "reloadMultiplier": 0.8,
+            "shootEffect": "shootSmall"
+        },
+        "plastanium": {
+            "damage": 27,
+            "frontColor": "d8d97f",
+            "backColor": "fffac6",
+            "lifetime": 60,
+            "speed": 4,
+            "splashDamageRadius": 2,
+            "splashDamage": 2,
+            "width": 12,
+            "height": 14,
+            "hitEffect": "plasticExplosion",
+            "ammoMultiplier": 3,
+            "shootEffect": "shootSmall"
+        }, 
+        "pyratite": {
+            "damage": 18, 
+            "lifetime": 60,
+            "inaccuracy": 3,
+            "speed": 4,
+            "width": 11,
+            "height": 13,
+            "shootEffect": "shootSmall",
+            "frontColor": "f8ad42",
+            "backColor": "f68021",
+            "makeFire": true,
+            "status": "burning",
+            "trailEffect": "incendTrail"
+        },
+        "copper": {
+            "damage": 16, 
+            "lifetime": 60,
+            "speed": 4,
+            "width": 8,
+            "height": 10,
+            "ammoMultiplier": 2,
+            "shootEffect": "shootSmall",
+            "smokeEffect": "shootSmallSmoke"
+        }
+    },
+    "requirements": [
+        { "item": "copper", "amount": 150},
+        { "item": "titanium", "amount": 50 },
+        { "item": "lead", "amount": 120},
+        { "item": "graphite", "amount": 60}
+    ],
+    "research": "duo",
+    "shootSound": "shootBig"
+}
