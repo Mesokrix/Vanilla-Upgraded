@@ -4,8 +4,8 @@
     "size": 2,
     "restitution": 0.03,
     "alternate":  true, 
-    "reloadTime": 10,
-    "range": 180,
+    "reloadTime": 11,
+    "range": 130,
     "inaccuracy": 2,
     "rotatespeed": 15,
     "targetAir": true,
@@ -27,7 +27,7 @@
             "shootEffect": "shootSmall"
         },
         "graphite": {
-            "damage": 15,
+            "damage": 21,
             "lifetime": 60,
             "speed": 4.2,
             "width": 10,
@@ -38,7 +38,7 @@
             "shootEffect": "shootSmall"
         },
         "plastanium": {
-            "damage": 20,
+            "damage": 23,
             "frontColor": "d8d97f",
             "backColor": "fffac6",
             "lifetime": 60,
@@ -52,7 +52,7 @@
             "shootEffect": "shootSmall"
         }, 
         "pyratite": {
-            "damage": 15, 
+            "damage": 14, 
             "lifetime": 60,
             "inaccuracy": 3,
             "speed": 4,
@@ -77,9 +77,9 @@
         }
     },
     "requirements": [
-        { "item": "copper", "amount": 75},
+        { "item": "copper", "amount": 70},
         { "item": "lead", "amount": 60 },
-        { "item": "graphite", "amount": 25}
+        { "item": "graphite", "amount": 30}
     ],
     "research": "duo",
     "shootSound": "shootBig"
