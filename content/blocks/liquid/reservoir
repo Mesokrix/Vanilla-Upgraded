@@ -1,0 +1,13 @@
+{
+	"type": "LiquidRouter",
+	"size": 2,
+	"liquidCapacity": 750,
+	"health": 300,
+	"requirements": [
+		{"item": "titanium", "amount": 12},
+		{"item": "metaglass", "amount": 12},
+		{"item": "copper", "amount": 40}
+	],
+	"research": "liquid-tank",
+	"category": "liquid"
+}
