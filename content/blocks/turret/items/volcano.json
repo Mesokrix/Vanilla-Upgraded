@@ -13,10 +13,10 @@
 	"rotatespeed": 0.7,
 	"recoil": 9,
 	"requirements": [
-		{ "item": "titanium", "amount": 300 },
-		{ "item": "titanium", "amount": 200 },
-		{ "item": "titanium", "amount": 300 },
-		{ "item": "titanium", "amount": 200 }
+		{ "item": "titanium", "amount": 600},
+		{ "item": "plastanium", "amount": 250},
+		{ "item": "copper", "amount": 800},
+		{ "item": "thorium", "amount": 450}
 	],
 	"category": "turret",
 	"research": "cyclone"
