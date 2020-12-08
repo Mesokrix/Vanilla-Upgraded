@@ -7,10 +7,10 @@ _[Trello Board](https://trello.com/b/kT6zadVS/vanilla-upgraded-trello)_
 <br>_[Wiki](https://voz8duh.wixsite.com/vanilla-upgraded)_ 
 
 # Vanilla-Upgraded
-A mod that adds a lot more experience for the games!
-<br>I just hope you enjoy the mod ^^
+Vanilla-Upgraded is a mod that adds a lot more content to the game!
+<br>I just hope you enjoy the mod. ^^
 
-U can join the official discord server of Vanilla-Upgraded now with this [link](https://discord.gg/TQpdDKn)!
+You can join the official Discord server of Vanilla-Upgraded by clicking [here](https://discord.gg/TQpdDKn)!
 
 ## The mod add: 
 `Items`: 9
@@ -22,12 +22,11 @@ U can join the official discord server of Vanilla-Upgraded now with this [link](
 <br>`Maps`: 6
 
 ### Contributing
-
 See who [contributes](CONTRIBUTING.md) to the mod.
 
-### Bundle 
-English bundle have arrived! 
-<br>Russian bundle is here! 
-<br>Spanish bundle is here! 
+### Bundle
+English bundle has arrived!
+<br>Russian bundle is here!
+<br>Spanish bundle is here!
 <br>Polish bundle is here!
 <br>We plan to add bundles based on player requests. 
