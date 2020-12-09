@@ -1,0 +1,34 @@
+{
+	"type": "GenericSmelter",
+    "size": 3,
+    "hasItem": true,
+    "hasPower": true,
+    "hasLiquid": true,
+    "updateEffect": "smeltsmoke",
+    "craftTime": 450,
+    "consumes": {
+		"power": 2,
+		"items": {
+			"items": [
+				{"item": "sand", "amount": 4}
+			]
+		},
+	    "liquid": {
+			"liquid": "water",
+			"amount": 0.2
+	    }
+    },
+    "requirements": [
+      {"item": "titanium", "amount": 150},
+      {"item": "copper", "amount": 300},
+      {"item": "graphite", "amount": 150}
+    ],
+    "category": "crafting",
+    "research": "pulverizer",
+    "idleSound": "respawning",
+    "idleSoundVolume": 0.5,
+	"outputItem": {
+		"item": "scrap", 
+		"amount": 5
+	}
+}
