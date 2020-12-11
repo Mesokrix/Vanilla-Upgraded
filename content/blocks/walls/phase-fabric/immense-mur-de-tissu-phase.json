@@ -5,7 +5,7 @@
     "health": 5400,
     "size": 3,
     "requirements": [
-		{"item": "phase-fabric", "amount": 125}
+		{"item": "phase-fabric", "amount": 54}
     ],
     "category": "defense",
     "research": "phase-wall-large"
