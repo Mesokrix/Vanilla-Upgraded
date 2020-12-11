@@ -4,7 +4,7 @@
 	"size": 3,
 	"insulated": true,
 	"requirements": [
-		{"item": "plastanium", "amount": 125}
+		{"item": "plastanium", "amount": 54}
 	],
 	"category": "defense",
 	"research": "plastanium-wall-large"
