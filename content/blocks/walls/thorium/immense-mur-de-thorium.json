@@ -3,7 +3,7 @@
     "health": 7200,
     "size": 3,
     "requirements": [
-		{"item": "thorium", "amount": 125}
+		{"item": "thorium", "amount": 54}
     ],
     "category": "defense",
     "research": "thorium-wall-large"
