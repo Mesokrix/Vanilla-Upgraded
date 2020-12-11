@@ -3,7 +3,7 @@
     "health": 5120,
     "size": 4,
     "requirements": [
-		    {"item": "copper", "amount": 100}
+		    {"item": "copper", "amount": 96}
     ],
     "category": "defense",
     "research": "immense-mur-de-cuivre"
