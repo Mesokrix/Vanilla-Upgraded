@@ -1,6 +1,6 @@
 {	
 	"requirements": [
-	  	{"item": "obsidienne", "amount": 250}
+	  	{"item": "obsidienne", "amount": 96}
 	],
 	"health": 20400,
 	"size": 4,
