@@ -6,7 +6,7 @@
 	"health": 8280,
 	"size": 3,
 	"requirements": [
-		{"item": "surge-alloy", "amount": 125}
+		{"item": "surge-alloy", "amount": 96}
 	],
 	"category": "defense",
 	"research": "surge-wall-large"
