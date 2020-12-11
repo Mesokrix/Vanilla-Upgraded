@@ -3,7 +3,7 @@
     "health": 7060,
     "size": 4,
     "requirements": [
-		{"item": "titanium", "amount": 245}
+		{"item": "titanium", "amount": 96}
     ],
     "category": "defense",
     "research": "immense-mur-de-titane"
