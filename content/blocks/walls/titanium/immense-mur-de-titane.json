@@ -3,7 +3,7 @@
     "health": 3960,
     "size": 3,
     "requirements": [
-		{"item": "titanium", "amount": 96}
+		{"item": "titanium", "amount": 54}
     ],
     "category": "defense",
 	  "research": "titanium-wall-large"
