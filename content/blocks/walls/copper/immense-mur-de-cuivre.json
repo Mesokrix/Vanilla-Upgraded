@@ -3,7 +3,7 @@
     "health": 2880,
     "size": 3,
     "requirements": [
-		{"item": "copper", "amount": 125}
+		{"item": "copper", "amount": 54}
     ],
     "category": "defense",
     "research": "copper-wall-large"
