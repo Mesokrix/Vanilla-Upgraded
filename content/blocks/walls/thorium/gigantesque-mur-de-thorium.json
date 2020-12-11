@@ -3,7 +3,7 @@
     "health": 12800,
     "size": 4,
     "requirements": [
-		{"item": "thorium", "amount": 245}
+		{"item": "thorium", "amount": 96}
     ],
     "category": "defense",
     "research": "immense-mur-de-thorium"
