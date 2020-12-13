@@ -5,7 +5,7 @@
     "hasPower": true,
     "hasLiquid": true,
     "updateEffect": "smeltsmoke",
-    "craftTime": 450,
+    "craftTime": 850,
     "consumes": {
 		"power": 2,
 		"items": {
@@ -20,8 +20,8 @@
     },
     "requirements": [
       {"item": "titanium", "amount": 150},
-      {"item": "copper", "amount": 300},
-      {"item": "graphite", "amount": 150}
+      {"item": "thorium", "amount": 100},
+      {"item": "plastanium", "amount": 50}
     ],
     "category": "crafting",
     "research": "pulverizer",
